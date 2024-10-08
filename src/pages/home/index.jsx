@@ -11,10 +11,10 @@ const HomePage = () => {
 			<EazyProgram />
 			<video
 				className={styles.home__video}
-				src={'/video.mp4'}
+				src={'/1.mp4'}
 				controls={true}
 				controlsList="nodownload"
-				poster={'/logo.jpg'}
+				poster={'/5197564234307856931.jpg'}
 			/>
 			<Symptoms />
 			<HelpYou />

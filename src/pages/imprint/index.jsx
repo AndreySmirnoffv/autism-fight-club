@@ -27,9 +27,9 @@ const ImprintPage = () => {
 										Mobil: 0176-45774045
 									</p>
 									<p>
-										www.tabaksucht.de
+										autism-Fight-Club.de
 										<br />
-										info@tabaksucht.de
+										info@autism-Fight-Club.de
 									</p>
 									<p>
 										Inhaber
